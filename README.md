@@ -33,7 +33,7 @@ Below is a comparison of model performance across different values of `num_pool_
 
 ![cluster_comparison](cluster_accuracy_plot.png)
 
-As shown, tuning the number of clusters is essential for optimizing model performance.
+As shown, tuning the number of clusters is useful for optimizing model performance.
 
 ## Credits
 
