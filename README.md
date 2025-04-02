@@ -39,5 +39,4 @@ As shown, tuning the number of clusters is useful for optimizing model performan
 
 Model inspired by:
 - Ying et al., "Hierarchical Graph Representation Learning with Differentiable Pooling" ([arXiv:1806.08804](https://arxiv.org/abs/1806.08804))
-- Graph-based approaches in high energy physics machine learning
 
